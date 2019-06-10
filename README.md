@@ -2,8 +2,7 @@
 This course is part of Software engineering program at SoftUni. 
 
 COURSE CURRICULUM:
-
- TOPIC:                                             
+                                          
 
  01.First Steps in Programming                      
 
